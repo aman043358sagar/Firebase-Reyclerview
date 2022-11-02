@@ -7,7 +7,7 @@ This project demonstrates retrieving and deleting of data from firebase realtime
 
 Adding             |  Deleting
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/aman043358sagar/Firebase-Reyclerview/master/Gif/firebase%20recyclerview.gif=246x438)  |  ![](https://raw.githubusercontent.com/aman043358sagar/Firebase-Reyclerview/master/Gif/firebase%20delete.gif=246x438)
+![](https://raw.githubusercontent.com/aman043358sagar/Firebase-Reyclerview/master/Gif/firebase%20recyclerview.gif =246x438)  |  ![](https://raw.githubusercontent.com/aman043358sagar/Firebase-Reyclerview/master/Gif/firebase%20delete.gif =246x438)
 
 ## Library Used
 * Third party
