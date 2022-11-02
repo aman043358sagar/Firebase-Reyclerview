@@ -1,8 +1,9 @@
 ## Firebase-Reyclerview
+This project demonstrates retrieving and deleting of data from firebase realtime database and showing data using firebase recycler adapter
 
-## Screenshot
+## Adding and delete person
 <img src="https://raw.githubusercontent.com/aman043358sagar/Firebase-Reyclerview/master/Gif/firebase%20recyclerview.gif" width="246" height="438"><!-- Force inline -->
-<img src="https://raw.githubusercontent.com/aman043358sagar/Firebase-Reyclerview/master/Gif/firebase%20recyclerview.gif" width="246" height="438"><!-- Force inline -->
+<img src="https://raw.githubusercontent.com/aman043358sagar/Firebase-Reyclerview/master/Gif/firebase%20delete.gif" width="246" height="438"><!-- Force inline -->
 
 
 ## Library Used
