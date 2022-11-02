@@ -6,7 +6,13 @@
 
 ## Library Used
 * Third party
-  * [Retrofit][1] for making HTTP requests
+  * [Firebase realtime database][1] for database
+  * [Firebase UI][2] for firebase recycler adapter
+  
+## Topic Used
+ * View binding
+ * Alert Dialog Box
+ * Material Text Input Layout
 
-
-[1]:  https://github.com/square/retrofit
+[1]:  https://firebase.google.com/docs/database/android/start
+[2]:  https://github.com/firebase/FirebaseUI-Android
