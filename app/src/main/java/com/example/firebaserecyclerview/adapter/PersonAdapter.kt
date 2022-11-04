@@ -31,6 +31,5 @@ class PersonAdapter(options: FirebaseRecyclerOptions<Person?>) :
                 getRef(position).removeValue()
             }
         }
-
     }
 }
